@@ -1,7 +1,7 @@
 # Parrot Firmware Research
 
 > [!WARNING]
-> For educational and research purposes only. Follow all applicable laws.
+> For educational and research purposes only. Follow all local laws.
 
 ## Overview
 
